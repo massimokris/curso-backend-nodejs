@@ -16,4 +16,4 @@ Crea el sistema de administración de datos de Platzi Videos
 Desarrolla la aplicación que gestionará los datos de Platzi Videos. Crea una API REST para consultar y modificar datos del sistema. Realiza pruebas de tu aplicación. Despliega la aplicación en un servicio en la nube.
 
 # Apuntes del curso
-https://docs.google.com/document/d/1e7A4dKidB6YZnpJR8dRETRUObJprkNBfazQEzM4bSUM/edit?usp=sharing
+https://docs.google.com/document/d/1ujQ4AC-q5KLvYimInbQpmbadEu7VJiGadv5OS0p0wRE/edit?usp=sharing
